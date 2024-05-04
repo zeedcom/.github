@@ -21,7 +21,7 @@
 
   <p align="center">
      Don't worry, we are here to help you
-    
+    <br />
     <a href="https://www.zedcom.app">View Demo</a>
     ·
     <a href="https://github.com/zedcom-app/.github/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
